@@ -1,0 +1,23 @@
+<svg width="104.000000" height="88.000000" viewBox="0 0 104 88" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs/>
+	<rect id="Icon" width="104.000000" height="88.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<mask id="mask28_37" mask-type="alpha" maskUnits="userSpaceOnUse" x="8.000000" y="0.000000" width="88.000000" height="88.000000">
+		<circle id="Mask" cx="52.000000" cy="44.000000" r="44.000000" fill="#F3F0EA" fill-opacity="1.000000"/>
+	</mask>
+	<g mask="url(#mask28_37)">
+		<circle id="Ellipse 5" cx="52.000000" cy="44.000000" r="44.000000" fill="#F3F0EA" fill-opacity="1.000000"/>
+	</g>
+	<g mask="url(#mask28_37)">
+		<g opacity="0.800000">
+			<circle id="Ellipse 3" cx="32.000000" cy="43.000000" r="32.000000" fill="#303031" fill-opacity="1.000000"/>
+		</g>
+	</g>
+	<g mask="url(#mask28_37)">
+		<g opacity="0.800000">
+			<circle id="Ellipse 4" cx="72.000000" cy="43.000000" r="32.000000" fill="#71A894" fill-opacity="1.000000"/>
+		</g>
+	</g>
+</svg>
